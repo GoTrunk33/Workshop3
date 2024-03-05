@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/nathan.nunes/Documents/Workshop3/Workshop3/Content/Charact/BP_kinematic_car.uasset",
+				"C:/Users/nathan.nunes/Documents/Workshop3/Workshop3/Content/NewMap.umap",
+				"C:/Users/nathan.nunes/Documents/Workshop3/Workshop3/Content/Charact/Car1.uasset",
 				"C:/Users/nathan.nunes/Desktop/Workshop3/Content/Timer/Timer.uasset",
 				"C:/Users/nathan.nunes/Desktop/Workshop3/Content/Gamemode/HUD_timer.uasset",
 				"C:/Users/nathan.nunes/Desktop/Workshop3/Content/Gamemode/BP_Gamemode.uasset",
